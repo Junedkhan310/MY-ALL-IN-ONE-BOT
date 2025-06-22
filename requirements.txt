@@ -1,13 +1,5 @@
 discord.py
-
 Flask
-
 python-dotenv
-
-# For Music commands:
-
-# youtube_dl # Older, might have issues
-
-yt-dlp # Recommended replacement for youtube_dl
-
-PyNaCl # For voice connection stability
+yt-dlp
+PyNaCl
